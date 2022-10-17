@@ -4,10 +4,10 @@
 - 💻 Apaixonada por tecnologia!
 
 <div align="center">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sara-larissa&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sara-larissa&theme=radical)
-</div>
+    <a href="https://github.com/sara-larissa">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sara-larissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-larissa&layout=compact&langs_count=7&theme=radical"/>
+  </div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
