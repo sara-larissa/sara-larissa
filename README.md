@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Sara 🌟
 
-- 📚 Estudante de Análise e desenvolvimento de sistemas 
-- 💻 Apaixonada por tecnologia!
+- 💻 Software Developer 
+- 💖 Apaixonada por tecnologia!
 
 <div align="center">
     <a href="https://github.com/sara-larissa">
