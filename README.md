@@ -30,4 +30,4 @@
 </div>
 
 
-<!-- synthwave, radical, dracula, aura_dark, tokyonight, panda -->
+<!-- synthwave, radical, dracula, aura_dark, tokyonight, panda .-->
