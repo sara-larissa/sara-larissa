@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Sara 🌟
 
+- 👩‍💻 Scrum Master
 - 💻 Software Developer 
 - 💖 Apaixonada por tecnologia!
 
